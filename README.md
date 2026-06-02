@@ -1,4 +1,4 @@
-# 🏆 Summer Assignment 2025
+# 🏆 Summer Assignment 
 30 Days Coding Challenge in C++
 
 ## 📅 Progress
