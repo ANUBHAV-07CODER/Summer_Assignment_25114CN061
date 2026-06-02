@@ -1,0 +1,13 @@
+# 🏆 Summer Assignment 2025
+30 Days Coding Challenge in C++
+
+## 📅 Progress
+| Day | Problem | Status |
+|-----|---------|---------|
+| Day1 |  4/4  | completed |
+| Day2 |  4/4  | completed |
+| Day3 |  4/4  | completed |
+| Day4 |  4/4  | completed |
+
+## 👨‍💻 Author
+Anubhav Singh | ANUBHAV-07CODER
