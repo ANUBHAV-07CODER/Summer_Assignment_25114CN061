@@ -9,6 +9,7 @@
 | Day3 |  4/4  | completed |
 | Day4 |  4/4  | completed |
 | Day5 |  4/4  | completed |
+| Day6 |  4/4  | completed |
 
 ## 👨‍💻 Author
-Anubhav Singh | ANUBHAV-07CODER
+| ANUBHAV-07CODER
