@@ -15,6 +15,7 @@
 | Day9 |  4/4  | completed |
 | Day10 |  4/4  | completed |
 | Day11 |  4/4  | completed |
+| Day12 |  4/4  | completed |
 
 ## 👨‍💻 Author
 | ANUBHAV-07CODER
