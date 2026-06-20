@@ -110,10 +110,8 @@ g++ Q1.cpp -o Q1
 
 # 👨‍💻 Author
 
-(https://github.com/Anubhav-07Coder)**
+(https://github.com/Anubhav-07Coder)
 
 
 
-</div>
-# 👨‍💻 Author
-| ANUBHAV-07CODER
+
