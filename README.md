@@ -108,9 +108,9 @@ g++ Q1.cpp -o Q1
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-**[ANUBHAV-07CODER](https://github.com/Anubhav-07Coder)**
+(https://github.com/Anubhav-07Coder)**
 
 
 
