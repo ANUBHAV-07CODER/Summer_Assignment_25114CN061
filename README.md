@@ -1,4 +1,5 @@
 #🌞 Summer Vacation Self‑Learning Assignments (C++)
+
 🧠 About This Repository
 Welcome to my personal vault of 30 days of self-discipline 💪 — this repository documents my journey through the Summer Vacation Self-Learning Assignment, assigned as part of core placement preparation.
 Every single day, I solve a fresh set of problems covering:
@@ -7,6 +8,7 @@ Every single day, I solve a fresh set of problems covering:
 🧩 Logic-Building Exercises
 🖥️ Core C++ Concepts
 No shortcuts. No skipped days. Just consistent, traceable progress — one folder at a time.
+
 🗂️ Repository Structure
 The project is organized into clean, daily directories, mapping exactly to the assignment modules — so anyone (including future-me 👋) can navigate it instantly.
 📦 Summer-Vacation-Self-Learning
