@@ -112,9 +112,7 @@ g++ Q1.cpp -o Q1
 
 **[ANUBHAV-07CODER](https://github.com/Anubhav-07Coder)**
 
-<div align="center">
 
-**🚀 30 Days. 120 Problems. Zero Excuses. 🚀**
 
 </div>
 # 👨‍💻 Author
