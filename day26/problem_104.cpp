@@ -2,8 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main()
-{
+int main(){
     int ans, score = 0;
 
     cout << "1. Which country won the ICC Cricket World Cup 2023?\n";
