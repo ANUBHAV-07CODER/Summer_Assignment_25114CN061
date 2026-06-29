@@ -6,8 +6,7 @@ struct employee{
     int Id;
     string name;
     float salary;
-}
-
+};
 int main(){
     employee e[100];
     int n = 0, choice;
