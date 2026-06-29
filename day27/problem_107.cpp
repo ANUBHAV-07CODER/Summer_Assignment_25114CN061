@@ -7,8 +7,7 @@ struct Salary
     int id;
     string name;
     float salary;
-}
-
+};
 int main()
 {
     Salary s[100];
