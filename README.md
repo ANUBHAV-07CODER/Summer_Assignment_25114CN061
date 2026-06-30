@@ -9,7 +9,7 @@
 
 
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-yellow?style=for-the-badge)
 
 
 
