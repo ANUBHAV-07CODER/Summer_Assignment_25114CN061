@@ -51,19 +51,16 @@ int main(){
                 {
                     for(int i = 0; i < n; i++)
                     {
-                        cout << "\nRoll No    : " << r[i].roll;
-                        cout << "\nName       : " << r[i].name;
-                        cout << "\nMarks      : "
-                             << r[i].m1 << " "
-                             << r[i].m2 << " "
-                             << r[i].m3;
-                        cout << "\nTotal      : " << r[i].total;
+                        cout << "\nRoll No: " << r[i].roll;
+                        cout << "\nName : " << r[i].name;
+                        cout << "\nMarks: "<< r[i].m1 << " "<< r[i].m2 << " "<< r[i].m3;
+                        cout << "\nTotal : " << r[i].total;
                         cout << "\nPercentage : " << r[i].per << "%";
 
                         if(r[i].per >= 40)
-                            cout << "\nResult     : Pass";
+                            cout << "\nResult : Pass";
                         else
-                            cout << "\nResult     : Fail";
+                            cout << "\nResult: Fail";
                     }
                 }
                 break;
@@ -79,19 +76,16 @@ int main(){
                 {
                     if(r[i].roll == roll)
                     {
-                        cout << "\nRoll No    : " << r[i].roll;
-                        cout << "\nName       : " << r[i].name;
-                        cout << "\nMarks      : "
-                             << r[i].m1 << " "
-                             << r[i].m2 << " "
-                             << r[i].m3;
-                        cout << "\nTotal      : " << r[i].total;
+                        cout << "\nRoll No : " << r[i].roll;
+                        cout << "\nName  : " << r[i].name;
+                        cout << "\nMarks  :" << r[i].m1 << " " << r[i].m2 << " " << r[i].m3;
+                        cout << "\nTotal : " << r[i].total;
                         cout << "\nPercentage : " << r[i].per << "%";
 
                         if(r[i].per >= 40)
-                            cout << "\nResult     : Pass";
+                            cout << "\nResult : Pass";
                         else
-                            cout << "\nResult     : Fail";
+                            cout << "\nResult : Fail";
 
                         found = 1;
                         break;
@@ -100,8 +94,7 @@ int main(){
 
                 if(found == 0)
                     cout << "Student Not Found!";
-
-                break;
+                    break;
             }
           
           case 4:
